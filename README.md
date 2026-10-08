@@ -1,6 +1,6 @@
 # Diabetes Digital Twin
 
-A proof-of-concept healthcare Digital Twin for **Type 2 Diabetes**, built for the Happiest Health Reimagining and Reforming Healthcare in India Summit 2026 (Bengaluru).
+A proof-of-concept healthcare Digital Twin for **Type 2 Diabetes**.
 
 ## Problem Statement
 
